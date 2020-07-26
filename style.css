@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(13, 0, 128, 0.274);
+    text-align: center;
+}
+.dlt{
+    background-color: red;
+    margin: 5px;
+    
+}
+.edit{
+    background-color: green;
+}
